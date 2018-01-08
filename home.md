@@ -3,7 +3,4 @@
 
 # Homepage
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+This is a test. 
